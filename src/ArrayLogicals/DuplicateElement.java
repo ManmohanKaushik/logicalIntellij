@@ -12,6 +12,7 @@ public class DuplicateElement {
                 }
             }
         }
+
         if (check == false) {
             System.out.println("No duplicate value is not found in array");
         }
